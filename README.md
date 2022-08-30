@@ -1,9 +1,9 @@
-# NSI 1ere
+# Jupyter Server - Atrium ENT 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 
 
-### Sommaire et environnement Jupyter [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/Jupenv/main?urlpath=apps/environnement.ipynb)  
+### Sommaire et environnement Jupyter [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/JupyterAtrium/main?urlpath=apps/environnement.ipynb)  
   
 
 
