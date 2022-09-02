@@ -29,6 +29,8 @@ jupyter nbextension install --overwrite --py nbtutor
 jupyter nbextension enable --py nbtutor
 jupyter nbextension install --py jupyter_wysiwyg
 jupyter nbextension enable --py jupyter_wysiwyg
+jupyter nbextension install --py jupyter_notebookparams --sys-prefix
+jupyter nbextension enable --py jupyter_notebookparams --sys-prefix
 
 # Notebooks w/ extensions that auto-run code must be "trusted" to work the first time
 python3 trust.py
