@@ -3,7 +3,7 @@
 
 
 
-### Sommaire et environnement Jupyter [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/JupyterAtrium/main?urlpath=apps/environnement.ipynb?site='www.atrium-sud.fr')  
+### Sommaire et environnement Jupyter [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/JupyterAtrium/main?urlpath=apps/environnement.ipynb?URL='www.atrium-sud.fr')  
   
 
 
